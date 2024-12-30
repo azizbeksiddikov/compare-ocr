@@ -1,0 +1,1 @@
+Creating an OCR Communication App with Tesseract.js and React (Part 1)
